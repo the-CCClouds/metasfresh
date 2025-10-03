@@ -4,8 +4,8 @@
 
 > 一个完整开源 ERP 系统，有 Rest API + Web 前端等。适合做企业级业务模板，模块丰富。
 
-[![release](https://img.shields.io/badge/release-5.175-blue.svg)](https://github.com/the-CCClouds/metasfresh/releases/tag/5.175)
-[![license](https://img.shields.io/badge/license-GPL-blue.svg)](https://github.com/the-CCClouds/metasfresh/blob/master/LICENSE.md)
+[![release](https://img.shields.io/badge/release-5.175-blue.svg)](https://github.com/metasfresh/metasfresh/releases/tag/5.175)
+[![license](https://img.shields.io/badge/license-GPL-blue.svg)](https://github.com/metasfresh/metasfresh/blob/master/LICENSE.md)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/metasfresh?style=social)](https://twitter.com/metasfresh)
 
 metasfresh 是一个响应式、免费且开源的 ERP 系统。我们的目标是打造快速、易用并且具有出色用户体验的企业软件。
@@ -16,7 +16,7 @@ metasfresh 是一个响应式、免费且开源的 ERP 系统。我们的目标�
 
 它采用三层架构，包含 Rest-API 以及使用 HTML5/ ReactJS/ Redux 开发的 Web 用户前端。
 
-![metasfresh-sales-order](https://github.com/the-CCClouds/metasfresh/blob/master/images/sales-order-recording-metasfresh.gif)
+![metasfresh-sales-order](https://github.com/metasfresh/metasfresh/blob/master/images/sales-order-recording-metasfresh.gif)
 
 <img src="/images/screenshot-kpi-dashboard-new.png" width="33%" alt="KPI 仪表板"></img> <img src="/images/screenshot-sales-order-new.png" width="33%" alt="销售订单窗口"></img> <img src="/images/screenshot-material-receipt-new.png" width="33%" alt="物料收货窗口"></img>
 
@@ -62,7 +62,7 @@ metasfresh 可以通过 **Docker** 或 **Ubuntu 安装程序** 安装。
 ## 贡献
 
 你想要帮助改进文档、贡献代码或参与功能需求吗？那太棒了，欢迎加入！
-在开始之前，请先阅读我们的 [行为准则](https://github.com/the-CCClouds/metasfresh/blob/master/CODE_OF_CONDUCT.md) 和 [贡献者指南](https://github.com/the-CCClouds/metasfresh/blob/master/CONTRIBUTING.md)。
+在开始之前，请先阅读我们的 [行为准则](https://github.com/metasfresh/metasfresh/blob/master/CODE_OF_CONDUCT.md) 和 [贡献者指南](https://github.com/metasfresh/metasfresh/blob/master/CONTRIBUTING.md)。
 
 ### “单仓库”（Monorepo）
 
@@ -79,4 +79,4 @@ metasfresh 可以通过 **Docker** 或 **Ubuntu 安装程序** 安装。
 
 ## metasfresh ERP 有哪些新变化？
 
-如果你对 metasfresh ERP 的最新改进或 bug 修复感兴趣，可以查看我们的 [发布说明](https://github.com/the-CCClouds/metasfresh/blob/master/ReleaseNotes.md)。
+如果你对 metasfresh ERP 的最新改进或 bug 修复感兴趣，可以查看我们的 [发布说明](https://github.com/metasfresh/metasfresh/blob/master/ReleaseNotes.md)。
